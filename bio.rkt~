@@ -5,16 +5,3 @@
  #:profile-pic (triangle 40 'solid 'blue)
  #:coac-story "
 
-
-Repo means code repository and this is where coders
- will write their code and collaborate with other coders on it. 
-
-Git is the technology that actually allows you to push code and collaborate with others. 
- 
-Github is one of the websites where you can push your repositories for them to be
-editted by other coders worldwide.
-
-Git is usally taught to CS students in their 4th year to improve their collaboration
-in a class called software engineering
-
-Coaches learn git early because it allows for collaboration at all stages of code. 
