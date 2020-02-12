@@ -1,7 +1,0 @@
-#lang mc-coach/bio
-
-(bio
- #:name "Juliette Langari"
- #:profile-pic (triangle 40 'solid 'blue)
- #:coac-story "
-
